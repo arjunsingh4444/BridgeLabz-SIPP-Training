@@ -2,7 +2,7 @@ package String_Questions;
 
 import java.util.Scanner;
 
-public class convertText_ToUppercase {
+public class ConvertText_ToUppercase {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.println("enter a string ");

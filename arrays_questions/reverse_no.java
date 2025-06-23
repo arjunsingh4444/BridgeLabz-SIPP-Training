@@ -3,7 +3,7 @@ package arrays_questions;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class reverse_no {
+public class Reverse_no {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("enter a no");

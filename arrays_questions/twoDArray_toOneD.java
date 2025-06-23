@@ -1,7 +1,7 @@
 package arrays_questions;
 import java.util.Scanner;
 
-public class twoDArray_toOneD {
+public class TwoDArray_toOneD {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

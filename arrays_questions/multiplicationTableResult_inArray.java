@@ -2,7 +2,7 @@ package arrays_questions;
 
 import java.util.*;
 
-public class multiplicationTableResult_inArray {
+public class MultiplicationTableResult_inArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a no");

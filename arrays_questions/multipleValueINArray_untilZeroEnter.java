@@ -5,7 +5,7 @@ package arrays_questions;
 
 import java.util.*;
 
-public class multipleValueINArray_untilZeroEnter {
+public class MultipleValueINArray_untilZeroEnter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

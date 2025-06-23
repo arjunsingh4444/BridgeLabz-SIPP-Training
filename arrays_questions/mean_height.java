@@ -2,7 +2,7 @@ package arrays_questions;
 
 import java.util.Scanner;
 
-public class mean_height {
+public class Mean_height {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         double height[] = new double[11];

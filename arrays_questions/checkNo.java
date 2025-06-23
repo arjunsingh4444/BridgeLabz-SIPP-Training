@@ -2,7 +2,7 @@ package arrays_questions;
 
 import java.util.Scanner;
 
-public class checkNo {
+public class CheckNo {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         int arr[]=new int[5];
